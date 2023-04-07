@@ -22,7 +22,7 @@
             border-bottom: 1px solid #FCE205;
             text-align: center;
             background-color: #FCE205;
-            color: black;
+            color: red;
         }
         
         div.description {
@@ -70,7 +70,7 @@
             outline: none;
             color: #FCE205;
             padding: 1.2em 0 1em 1.2em;
-            background-color: black;
+            background-color: white;
             border: 0.5px solid #FCE205;
             height: 8em;
             resize: none;
