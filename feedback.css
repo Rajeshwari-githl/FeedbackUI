@@ -7,7 +7,7 @@
         div.formContainer {
             margin: 4em auto 4em auto;
             width: 80%;
-            color: #FCE205;
+            color: red;
             border: 1px solid black;
             border-radius: 2px;
         }
@@ -101,7 +101,7 @@
         
         div.form button {
             background-color: black;
-            color: #FCE205;
+            color: black;
             font-weight: bolder;
             transition: all 0.2s linear;
         }
