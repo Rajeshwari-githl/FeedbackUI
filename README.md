@@ -5,8 +5,5 @@ Feedbackform
 <p>The head section contains the meta charset tag, which specifies the character encoding of the document.</p>
 <p>The title element sets the title of the page that appears in the browser tab. The link element is used to link the CSS file to the HTML document.</p>
 
-
-
-
-
 <p>  DOM: The code begins by selecting several elements from the HTML document using the querySelector and querySelectorAll methods</p>
+<p> If u have any idea to improve this feedback form u can feel free to send PR  </p>
