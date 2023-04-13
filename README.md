@@ -6,7 +6,7 @@ Feedbackform
 <p>The title element sets the title of the page that appears in the browser tab. The link element is used to link the CSS file to the HTML document.</p>
 
 <p>  DOM: The code begins by selecting several elements from the HTML document using the querySelector and querySelectorAll methods</p>
-<h2> UI :</p>
+<h2> UI :</h2>
 <ul>
   <li> Keep the focus on strategic goals. ...</li>
   <li>Consolidate feedback. ... </li>
